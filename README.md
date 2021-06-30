@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vinecunha
+- 👀 I’m interested in computer science and soccer
+- 🌱 I’m currently learning full-stack skills
+- 💞️ I’m looking to collaborate on back-end and front-end projects
+- 📫 How to reach me vcunha@id.uff.br / tec.viniciuscunha@gmail.com or +55 (21) 97982-0741.
